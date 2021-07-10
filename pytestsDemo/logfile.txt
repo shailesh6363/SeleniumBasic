@@ -1,0 +1,7 @@
+2021-07-10 15:44:45,212 :INFO :pytestsDemo.BaseClass :['Rahul', 'Shetty', 'rahulshettyacadmy.com']
+2021-07-10 15:47:32,023 :INFO :test_editProfile :['Rahul', 'Shetty', 'rahulshettyacadmy.com']
+2021-07-10 15:50:57,710 :INFO :test_editProfile :['Rahul', 'Shetty', 'rahulshettyacadmy.com']
+2021-07-10 15:50:57,749 :INFO :pytestsDemo.test_logging :A Info Statement Is Executed
+2021-07-10 15:50:57,749 :WARNING :pytestsDemo.test_logging :A warning Statement Is Executed
+2021-07-10 15:50:57,749 :ERROR :pytestsDemo.test_logging :A Error Statement Is Executed
+2021-07-10 15:50:57,749 :CRITICAL :pytestsDemo.test_logging :A Critical Statement Is Executed
